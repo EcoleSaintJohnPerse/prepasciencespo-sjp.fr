@@ -4,6 +4,8 @@ title: Accueil
 permalink: /
 ---
 
+<b><a href="./prepa-sciences-po-saint-john-perse.pdf">Téléchargez la plaquette de la prépa</a></b>
+
 <h2>Pourquoi choisir un IEP ?</h2>
 
 C'est se donner la chance d'intégrer une école prestigieuse, proposant une formation variée et reconnue en France et à l'international. 

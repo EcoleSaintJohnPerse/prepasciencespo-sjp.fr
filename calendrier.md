@@ -4,6 +4,7 @@ title: Calendrier
 permalink: /calendrier/
 ---
 
+<b><a href="./calendrier-prepa-sciences-po-2018-19-Saint-John-Perse.pdf">Téléchargez le calendrier de la prépa</a></b>
 
 **NB** : les événements en bleu foncé concernent la préparation par correspondance, ceux en vert la préparation en stage intensif, ceux en violet et en bleu clair tous les étudiants. Les étudiants suivant la préparation complète, hors les élèves de première, sont concernés par toutes les couleurs d'événements. 
 
