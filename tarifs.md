@@ -42,4 +42,4 @@ permalink: /tarifs-et-informations-utiles/
 
 - Par mail : [SJP-prepa@gmail.com](mailto:sjp-prepa@gmail.com)
 - Par téléphone : 01 43 87 73 10 ou 06 78 22 96 95
-- Adresse postale de l'établissement : 14 rue Cavallotti, 75018, Paris
+- Adresse postale de l'établissement : [14, rue Cavallotti, 75018 Paris](https://goo.gl/maps/Sf5EVY3xpp92)

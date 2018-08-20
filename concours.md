@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les concours
+title: Concours
 permalink: /quatre-concours-iep/
 ---
 

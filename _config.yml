@@ -20,8 +20,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Nos étudiants béneficient d'un enseignement sur mesure, qui s'appuie sur un un encadrement à l'anglo-saxonne. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.prepasciencespo-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: St_JohnPerse
+facebook_username: etablissementssaintjohnperse
+
+header_pages:
+  - index.md
+  - concours.md
+  - formules.md
+  - calendrier.md
+  - tarifs.md
 
 # Build settings
 markdown: kramdown
