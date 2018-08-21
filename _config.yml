@@ -36,6 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-pwa-plugin
+  - jekyll-sitemap
 
 pwa:
   dest_js_directory: assets/js # Required
