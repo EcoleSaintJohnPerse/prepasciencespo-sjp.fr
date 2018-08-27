@@ -4,6 +4,8 @@ title: Tarifs
 permalink: /tarifs-et-informations-utiles/
 ---
 
+![IEP Bordeaux](/images/bandeau-IEP/Bordeaux-SJP.jpg)
+
 - **Préparation en ligne** : 1400 euros TTC, payable en deux fois, à l'inscription et le 1er décembre. 
 - **Préparation en stages intensifs** : 1800 euros TTC. Trois versements : 700 euros TTC à l'inscription, 600 euros TTC le 1er décembre et 500 euros TTC le 1er février. 
 - **Préparation intégrale** : 2700 euros TTC. Trois versements : 700 euros TTC à l'inscription, 1000 euros TTC au 1er décembre, 1000 euros TTC au 1er février. 

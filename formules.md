@@ -4,6 +4,8 @@ title: Programmes
 permalink: /cinq-programme-de-preparation/
 ---
 
+![IEP Paris](/images/bandeau-IEP/Paris-SJP.jpg)
+
 ## A Chacun sa préparation !
 
 ### A qui s'adresse la Prépa Saint-John Perse ? 

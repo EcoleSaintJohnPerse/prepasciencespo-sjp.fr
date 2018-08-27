@@ -4,6 +4,9 @@ title: Concours
 permalink: "/quatre-concours-iep/"
 
 ---
+
+![IEP Grenoble](/images/bandeau-IEP/Grenoble-SJP.jpg)
+
 ## Choisir son parcours sur mesure à Saint-John Perse
 
 L'Ecole Saint-John Perse est spécialisée dans la préparation aux concours des IEP pour les pré-bacheliers (BAC -1, Bac +0) et les bacheliers en première année d'enseignement supérieur (BAC +1).
@@ -16,6 +19,8 @@ Il existe quatre concours distincts, donnant accès chacun à un IEP suivant des
 
 ## Sciences-Po Paris – Viser haut
 
+![logo Sciences-Po Paris](/images/logo-iep/iep-Paris.png)
+
 L'examen le plus prestigieux et le plus sélectif est celui de l'IEP de Paris. Cette institution propose un concours dont les matières et les modalités de passage se distinguent des autres.
 
 Trois matières sont à l'honneur lors des examens écrits : histoire (programme de 1ère), langue étrangère (notre spécialisation : anglais) et une épreuve à option, en SES, mathématiques ou littérature/philosophie (notre spécialisation : SES).
@@ -26,6 +31,8 @@ Généralement, les étudiants qui tentent le concours de Paris s'essayent aussi
 
 ## IEP de province – Choisir son école
 
+![logo IEP Lille](/images/logo-iep/iep-Lille.jpg)![logo IEP Montpellier](/images/logo-iep/iep-Montpellier.png)![logo IEP Rennes](/images/logo-iep/iep-Rennes.png)![logo IEP Saint-Germain-en-Laye](/images/logo-iep/iep-Saint-Germain-en-Laye.jpeg)![logo IEP Strasbourg](/images/logo-iep/iep-Strasbourg.png)
+
 Sept IEP en province proposent un concours commun d'admission. S'ils sont moins connus que l'IEP de Paris, ils sont aussi des établissements renommés et proposent des cursus riches et variés. Leur examen d'entrée nécessite un travail tout aussi rigoureux et régulier.
 
 On peut choisir de ne passer que ce concours, qui est commun à tous les IEP mais il est intéressant de profiter de sa dynamique de préparation pour présenter à la fois l'IEP de Paris et ceux de province.
@@ -33,6 +40,8 @@ On peut choisir de ne passer que ce concours, qui est commun à tous les IEP mai
 Trois matières sont mises au Concours Commun des IEP de provinces : histoire (programme de 1ère mais seulement de 1945 à nos jours), langue étrangère et une épreuve de "questions contemporaines", autrement dit "culture générale".
 
 ## IEP de Bordeaux et Grenoble – Des parcours différents
+
+![logo IEP Bordeaux](/images/logo-iep/iep-Bordeaux.jpg)![logo IEP Grenoble](/images/logo-iep/iep-Grenoble.png)
 
 Ces deux IEP proposent des examens spécifiques.
 
@@ -42,7 +51,7 @@ Si vous êtes passionné de sport, c'est le concours de Grenoble qui vous corres
 
 | Concours | Matières |
 | --- | --- |
-| IEP de Paris | 1. Une épreuve d'histoire basée sur le programme de première. Dissertation et étude de document. Coefficient 2, durée 4 heures.<br>2. Une épreuve à option au choix : littérature et philosophie ; mathématiques ; sciences économiques et sociales. Coefficient 2, durée 3 heures.<br>3. Une épreuve de langue étrangère. Coefficient 1, durée 1 heure et demi.<br>4. L'entretien oral à partir du dossier du candidat. Ne concerne que les admissibles à l'écrit. 20 minutes. Les dossiers sont notés A, B, C. La moyenne des écrits ne compte plus. |
-| IEP de province | 1. Une épreuve de questions contemporaines, dissertation, un sujet à choisir parmi deux proposés, durée 3 heures, coefficient 3.<br>2.  Une épreuve d'histoire. Dissertation, un seul sujet. Durée 3heures , coefficient 3.<br>3. Une épreuve de langue étrangère. Durée 1h30, coefficient 2. |
-| IEP de Bordeaux | 1. Une composition sur un thème d’actualité à partir d’un dossier comprenant un ou plusieurs documents. Durée 3 heures, coefficient 2.<br>2. Une épreuve d’histoire. Il s’agit de questions de cours sur le programme complet de première S. Durée 2 heures, coefficient 2.<br>3. Une épreuve de langue étrangère : durée 1h30, coefficient 1.<br> |
-| IEP de Grenoble | 1. Une épreuve de langue étrangère : durée : 1 heure, coefficient 1.<br>2. Une épreuve sur un ouvrage d’histoire contemporaine avec deux questions sur l’ouvrage (chaque question notée sur 3) et une dissertation d’ouverture (à partir des thèmes de l’ouvrage) sur l’histoire et l’actualité (notée sur 14). Durée de l’épreuve 4 heures, coefficient 3. |
+| IEP de Paris<br>![logo Sciences-Po Paris](/images/logo-iep/iep-Paris.png) | 1. Une épreuve d'histoire basée sur le programme de première. Dissertation et étude de document. Coefficient 2, durée 4 heures.<br>2. Une épreuve à option au choix : littérature et philosophie ; mathématiques ; sciences économiques et sociales. Coefficient 2, durée 3 heures.<br>3. Une épreuve de langue étrangère. Coefficient 1, durée 1 heure et demi.<br>4. L'entretien oral à partir du dossier du candidat. Ne concerne que les admissibles à l'écrit. 20 minutes. Les dossiers sont notés A, B, C. La moyenne des écrits ne compte plus. |
+| IEP de province<br>![logo IEP Montpellier](/images/logo-iep/iep-Montpellier.png) | 1. Une épreuve de questions contemporaines, dissertation, un sujet à choisir parmi deux proposés, durée 3 heures, coefficient 3.<br>2.  Une épreuve d'histoire. Dissertation, un seul sujet. Durée 3heures , coefficient 3.<br>3. Une épreuve de langue étrangère. Durée 1h30, coefficient 2. |
+| IEP de Bordeaux<br>![logo IEP Bordeaux](/images/logo-iep/iep-Bordeaux.jpg) | 1. Une composition sur un thème d’actualité à partir d’un dossier comprenant un ou plusieurs documents. Durée 3 heures, coefficient 2.<br>2. Une épreuve d’histoire. Il s’agit de questions de cours sur le programme complet de première S. Durée 2 heures, coefficient 2.<br>3. Une épreuve de langue étrangère : durée 1h30, coefficient 1.<br> |
+| IEP de Grenoble<br>![logo IEP Grenoble](/images/logo-iep/iep-Grenoble.png) | 1. Une épreuve de langue étrangère : durée : 1 heure, coefficient 1.<br>2. Une épreuve sur un ouvrage d’histoire contemporaine avec deux questions sur l’ouvrage (chaque question notée sur 3) et une dissertation d’ouverture (à partir des thèmes de l’ouvrage) sur l’histoire et l’actualité (notée sur 14). Durée de l’épreuve 4 heures, coefficient 3. |

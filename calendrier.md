@@ -4,6 +4,9 @@ title: Calendrier
 permalink: "/calendrier/"
 
 ---
+
+![IEP Lyon](/images/bandeau-IEP/Lyon-SJP.jpg)
+
 Téléchargez le **[calendrier de la prépa](/calendrier-prepa-sciences-po-2018-19-Saint-John-Perse.pdf)** : les événements en bleu foncé concernent la préparation par correspondance, ceux en vert la préparation en stage intensif, ceux en violet et en bleu clair tous les étudiants. Les étudiants suivant la préparation complète, hors les élèves de première, sont concernés par toutes les couleurs d'événements.
 
 Ou accédez au **[Google Calendar](https://calendar.google.com/calendar/embed?src=foo14gvnkgd6la1ui0821ovrqc%40group.calendar.google.com&ctz=Europe%2FParis)**.
@@ -23,6 +26,8 @@ NB : les dates pour les concours 2019 ne sont pas encore connues, sauf celle du 
 
 ### Concours de Sciences-Po Paris
 
+![logo Sciences-Po Paris](/images/logo-iep/iep-Paris.png)
+
 * Dernière limite pour valider le dossier d'inscription : le 3 janvier 2018, à minuit.
 * Épreuves écrites : les 24 et 25 février 2018 (deux demi-journées).
 * Résultats d'admissibilité : début avril 2018.
@@ -30,6 +35,8 @@ NB : les dates pour les concours 2019 ne sont pas encore connues, sauf celle du 
 * Résultats : fin du mois de juin 2018.
 
 ### Concours commun des IEP
+
+![logo IEP Lille](/images/logo-iep/iep-Lille.jpg)![logo IEP Montpellier](/images/logo-iep/iep-Montpellier.png)![logo IEP Rennes](/images/logo-iep/iep-Rennes.png)![logo IEP Saint-Germain-en-Laye](/images/logo-iep/iep-Saint-Germain-en-Laye.jpeg)![logo IEP Strasbourg](/images/logo-iep/iep-Strasbourg.png)
 
 * Dates d’inscription : du 1er février 2018 au 18 avril 2018
 * Dates des épreuves : samedi 26 mai 2018
@@ -39,6 +46,8 @@ NB : les dates pour les concours 2019 ne sont pas encore connues, sauf celle du 
 * Date du concours : le 17 mars 2018.
 
 ### Concours de l'IEP de Grenoble
+
+![logo IEP Grenoble](/images/logo-iep/iep-Grenoble.png)
 
 * Dates d'inscription : de fin janvier à mi-avril 2018.
 * Date du concours : le 5 mai 2018.

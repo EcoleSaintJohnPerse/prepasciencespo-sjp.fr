@@ -4,6 +4,8 @@ title: Accueil
 permalink: /
 ---
 
+![Bandeau Saint-John Perse](./images/bandeau-saint-john-perse.jpg)
+
 <b><a href="./prepa-sciences-po-saint-john-perse.pdf">Téléchargez la plaquette de la prépa</a></b>
 
 <h2>Pourquoi choisir un IEP ?</h2>
