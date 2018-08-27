@@ -18,7 +18,7 @@ La troisième année à l'étranger donne sa dimension d'excellence internationa
 
 <h2>Choisir la Prépa Saint-John Perse</h2>
 
-Choisir la Prepa Saint-John Perse, c'est privilégier le tutorat, la régularité, la rigueur, l'efficacité. 
+**Choisir la Prepa Saint-John Perse, c'est privilégier le tutorat, la régularité, la rigueur, l'efficacité.**
 
 Nos étudiants béneficient d'un enseignement sur mesure, qui s'appuie sur un un encadrement à l'anglo-saxonne. 
 

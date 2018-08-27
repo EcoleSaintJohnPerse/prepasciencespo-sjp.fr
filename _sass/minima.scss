@@ -66,6 +66,10 @@ h1, h2, h3 {
   line-height: 30px;
 }
 
+.post-content p, .home p {
+  text-align: justify;
+}
+
 label {
   display: inline-block;
   min-width: 180px;
@@ -81,9 +85,9 @@ input, select, textarea {
   border-radius: 4px;
 }
 
-.footer-col {
-  width: -webkit-calc(30% - (30px / 2));
-  width: calc(30% - (30px / 2));
+.footer-col-2 {
+  width: -webkit-calc(65% - (30px / 2));
+  width: calc(65% - (30px / 2));
 }
 
 .footer-col-wrapper h4 {

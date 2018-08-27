@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Prepa Sciences Po - Saint-John Perse
-email: sjp018@gmail.com
+email: sjp.prepa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Choisir la Prepa Saint-John Perse, c'est privilégier le tutorat, la régularité, la rigueur, l'efficacité. 
-  Nos étudiants béneficient d'un enseignement sur mesure, qui s'appuie sur un un encadrement à l'anglo-saxonne. 
+  Dans le 18ème à Paris, le lycée Saint-John Perse prépare ses élèves aux concours de Sciences-Po Paris et des IEP de provinces. 
+  La filière Sciences-Po concerne les classes de première, de terminale et les élèves en première année post-bac. 
+  Les élèves bénéficient d'un tutorat personnalisé, de stages intensifs pendant les vacances scolaires et d'un enseignement en ligne tout au long de l'année.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.prepasciencespo-sjp.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: St_JohnPerse
