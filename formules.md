@@ -33,7 +33,7 @@ Réussir ses examens requiert motivation, rigueur et régularité dans le travai
 
 Les matières scolaires contribuent d'elles-mêmes à former les élèves pour l'enseignement supérieur et à enrichir leur culture générale – un atout de poids pour accéder aux IEP. 
 
-Saint-John Perse étant un établissement d'enseignement secondaire, il donne l'opportunité à ses élèves, dès la première, puis en terminale, de réussir leur lycée et leur BAC tout en se préparant aux concours des IEP. 
+Saint-John Perse étant un établissement d'enseignement secondaire, il donne l'opportunité à ses élèves, dès la première, puis en terminale, de réussir leur lycée et leur bac tout en se préparant aux concours des IEP. 
 
 C'est la formule : un cadre et un rythme de travail équilibré, dans lequel les cours proposés ne sont pas une redite des cours de première et de terminale, mais les enrichissent en termes de culture générale et encouragent au développement d'habitudes, de méthodes d'analyse, de réflexion, de rédaction, qui feront la différence le jour des examens. 
 
