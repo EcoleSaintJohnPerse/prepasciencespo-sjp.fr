@@ -26,4 +26,4 @@ Nos étudiants béneficient d'un enseignement sur mesure, qui s'appuie sur un un
 
 Des méthodes d'apprentissage pratiques et innovantes sont mises en oeuvre, permettant d'améliorer le suivi des enseignants et d'augmenter leur efficacité : conférences en ligne, corrections vidéo destinées à chaque élève, plate-forme intranet permettant la correspondance entre les élèves et leurs professeurs. 
 
-L'Ecole Saint-John Perse est un établissement d'enseignement secondaire créé en 1982. Il offre la possibilité de préparer simultanément son baccalauréat et l'examen d'entrée aux IEP. La Prépa Sciences-Po dispose d'un module accessible dès la classe de première.
+L'école Saint-John Perse est un établissement d'enseignement secondaire créé en 1982. Il offre la possibilité de préparer simultanément son baccalauréat et l'examen d'entrée aux IEP. La Prépa Sciences-Po dispose d'un module accessible dès la classe de première.
