@@ -9,7 +9,7 @@ permalink: "/quatre-concours-iep/"
 
 ## Choisir son parcours sur mesure à Saint-John Perse
 
-L'Ecole Saint-John Perse est spécialisée dans la préparation aux concours des IEP pour les pré-bacheliers (bac -1, Bac +0) et les bacheliers en première année d'enseignement supérieur (bac +1).
+L'école Saint-John Perse est spécialisée dans la préparation aux concours des IEP pour les pré-bacheliers (bac -1, Bac +0) et les bacheliers en première année d'enseignement supérieur (bac +1).
 
 Les IEP recrutent à la fois des étudiants sortant de terminale (avec leur bac en poche bien sûr) et des étudiants sortant d'une première année d'étude post-bac.
 
